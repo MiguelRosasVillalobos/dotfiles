@@ -4,7 +4,7 @@
 ########################                                              ########################
 ##############################################################################################
 
- exec_always --no-startup-id      feh --bg-fill ~/.Wallpapers/W2.jpg feh --bg-fill ~/.Wallpapers/W3.jpg
+ exec_always --no-startup-id      feh --bg-fill ~/.Wallpapers/W4.jpg feh --bg-fill ~/.Wallpapers/W5.jpg
 
 exec_always --no-startup-id      ~/.config/picom/picomstart.sh
 exec_always --no-startup-id      ~/.config/polybar/launch.sh
